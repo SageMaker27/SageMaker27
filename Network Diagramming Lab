@@ -1,0 +1,2 @@
+Created a home network diagram which consists of an ISP router, 2 home computers, 1 smart television, and 1 video game system. Assumed DHCP/NAT is configured on the ISP router for the internal IPs (set to 192.168.1.0/24).
+Created a office network which has 10 users, each with a PC. They also have 3 printers, one at the receptionist’s desk, one in the common area for employees, and one in the manager’s office. 
