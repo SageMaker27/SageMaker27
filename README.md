@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SageMaker27
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning about AWS Cloud!
-- 📫 How to reach me @davidsuresh9598@yahoo.com
+- 📫 How to reach me @davidsgeorge@icloud.com
 
 <!---
 SageMaker27/SageMaker27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
